@@ -62,3 +62,4 @@ int main()
 	                          --pos.X;
 	                      if(pos.X>14) pos.X=14;break; 			
                             } }}
+    
